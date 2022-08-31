@@ -1,0 +1,26 @@
+.nav-bar:hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(94, 94, 94);
+    text-decoration-thickness: 3px;
+    transition: ease-in-out 0.3s;
+   background-color: transparent;
+    cursor: pointer;
+}
+.good{
+    font-weight: 700;
+    font-size: 40px;
+    color: rgb(245, 126, 14);
+    
+   
+}
+.font-weight{
+    font-weight: 600;
+}
+.line{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contact{
+    font-size: 100px;
+}
